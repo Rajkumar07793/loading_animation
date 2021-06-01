@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-<img src = "loading.png">
+<img src = "loading.gif">
 
 This project is a starting point for a Dart
 [package](https://flutter.dev/developing-packages/),
