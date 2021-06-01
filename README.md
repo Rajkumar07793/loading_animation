@@ -2,8 +2,10 @@
 
 A new Flutter project.
 
+### Show some :heart: and star the repo to support the project
+
 ## Getting Started
-<img src = "loading.gif">
+<img src = "https://raw.githubusercontent.com/Rajkumar07793/loading_animation/master/loading.gif">
 
 This project is a starting point for a Dart
 [package](https://flutter.dev/developing-packages/),

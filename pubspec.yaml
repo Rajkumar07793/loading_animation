@@ -1,8 +1,7 @@
 name: loading_animation
 description: A new Flutter project.
 version: 0.0.1
-author: Raj kumar Patel <rajkumar07793@gmail.com>
-homepage: ""
+homepage: "https://github.com/Rajkumar07793/loading_animation.git"
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
